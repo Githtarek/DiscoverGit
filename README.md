@@ -7,7 +7,7 @@ Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et pr
 3/Jackson
 4/JUN
 5/Elias Figueredo
-6/
+6/hedjal said
 7/IDJERI Zohra
 8/Kliucharieva Nataliia
 9/ Frédéric Leroux
