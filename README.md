@@ -9,7 +9,7 @@ Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et pr
 5/Elias Figueredo
 6/
 7/IDJERI Zohra
-8/
+8/Kliucharieva Nataliia
 9/ Frédéric Leroux
 10/sabah Najmi
 11/wafaa:wafaa
