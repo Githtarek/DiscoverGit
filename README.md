@@ -9,9 +9,7 @@ Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et pr
 5/
 6/
 7/
-8/
-9/
-10/
+8/Kliucharieva Nataliia
 11/
 12/
 13/
