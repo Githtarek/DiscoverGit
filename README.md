@@ -8,7 +8,7 @@ Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et pr
 4/
 5/
 6/
-7/
+7/IDJERI Zohra
 8/
 9/
 10/
