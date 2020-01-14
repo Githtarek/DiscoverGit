@@ -4,7 +4,7 @@ Le but de cet exercice de découverte est de constituer la liste des contributeu
 Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et prénom au format (Nom Prénom) à la position qu'il occupe dans la liste de classe.
 1/
 2/
-3/
+3/Jackson
 4/
 5/Elias Figueredo
 6/
