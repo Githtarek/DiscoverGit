@@ -7,7 +7,7 @@ Le groupe est constitué de 13 étudiants. Chaque étudiant ajoute son nom et pr
 3/
 4/
 5/
-6/
+6/Najmi Sabah
 7/
 8/
 9/
